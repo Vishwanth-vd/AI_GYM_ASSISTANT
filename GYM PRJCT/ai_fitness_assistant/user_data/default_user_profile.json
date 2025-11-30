@@ -1,0 +1,16 @@
+{
+    "user_id": "default_user",
+    "name": "Priya",
+    "age": 46,
+    "gender": "Female",
+    "height": 161,
+    "weight": 80.0,
+    "goal_weight": 70.0,
+    "goal": "Weight Loss",
+    "experience": "Beginner",
+    "activity_level": "Very active (6-7 days/week)",
+    "diet_preference": "Vegetarian",
+    "bmi": 30.86,
+    "bmr": 1415.25,
+    "tdee": 2441.31
+}
